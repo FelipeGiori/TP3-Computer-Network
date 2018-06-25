@@ -1,0 +1,28 @@
+N gabriel 12345
+N julio 12345
+N ricardo 12345
+N gabriel 1234
+N julio 1234
+S paulo 12345 meu_diario Conteudo do diario
+S gabriel 1234 meu_diario Conteudo do diario
+S gabriel 12345 meu_diario Conteudo do diario do gabriel
+R gabriel 12345 meu_diario
+S gabriel 12345 meu_diario Novo Conteudo do diario do gabriel
+R gabriel 12345 meu_diario
+S gabriel 12345 meu_diario2 Conteudo do diario2 do gabriel
+R gabriel 12345 meu_diario2
+S julio 123456 meu_diario Conteudo do diario
+S julio2 12345 meu_diario Conteudo do diario
+S julio 12345 meu_diario Conteudo do diario do julio
+R julio 12345 meu_diario
+S julio 12345 meu_diario Novo Conteudo do diario do julio
+R julio 12345 meu_diario
+R julio 123456 meu_diario
+R ricardo 12345 meu_diario
+R paulo 12345 meu_diario
+R gabriel 12345 meu_diario3
+L paulo 12345
+L julio 1234
+L gabriel 1234
+L gabriel 12345
+L julio 12345
